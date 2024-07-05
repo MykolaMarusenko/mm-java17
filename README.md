@@ -9,4 +9,4 @@ This is an awesome project!
 </div>
 
 
-app: `test`
+app: ```test```
